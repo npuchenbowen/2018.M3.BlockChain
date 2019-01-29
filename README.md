@@ -56,7 +56,8 @@
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 30%, Final Project 20%
-* __Mid-term exam__: 4.03 Wed (in class)
+* Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* __Mid-term exam__: 4.03 Wed (in class). Open-book without computer/phone/calculator use
 * __Project Presentation__: 4.19 Fri (in class)
-* Exams are open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
+* The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strickly based on outcome, not on effort or progress.
