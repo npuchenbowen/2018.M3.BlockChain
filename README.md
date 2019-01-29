@@ -60,4 +60,4 @@
 * __Mid-term exam__: 4.03 Wed (in class). Open-book without computer/phone/calculator use
 * __Project Presentation__: 4.19 Fri (in class)
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
-* The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strickly based on outcome, not on effort or progress.
+* The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
