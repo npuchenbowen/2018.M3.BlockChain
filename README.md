@@ -4,7 +4,9 @@
 * 
 
 ## Resources
-
+* Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
+* [SegWit Article](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/)
+* zk-SNARK by Vitalik Buterin: [Medium](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
 ## Lectures: 
 * __01__ (2.19 Tue): 
@@ -31,12 +33,8 @@
 ### __Set 2__ 
 ### __Set 3__ 
 
-## Extra Reading
-* [SegWit Article](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/)
-* zk-SNARK by Vitalik Buterin: [Medium](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
-
 ***
-# Course Syllabus
+# Syllabus
 
 ## Classes:
 * Lectures: Tuesday & Friday 1:30 – 3:20 PM
@@ -54,7 +52,7 @@
 
 ## Textbooks and Reading Materials
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available
-* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder (link, [draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)): (__BCT__)
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)): (__BCT__)
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 30%, Final Project 20%
