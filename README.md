@@ -3,15 +3,9 @@
 ## Announcements
 * 
 
-## Resources
-* Useful Online Tools: [Hash1](https://emn178.github.io/online-tools/sha256.html), [Hash2](http://www.fileformat.info/tool/hash.htm)
-* Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
-* [SegWit Article](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/)
-* zk-SNARK by Vitalik Buterin: [Medium](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
-
 ## Lectures: 
 * __01__ (2.19 Tue): FinTech@PHBS, Course Overview, Bitcoin Overview (DeCal Lec 01)
-  * HW1: Create github account, 
+  * HW1: Create github account, use real name under setting, and email me ID. (the repository will be member-only)
 * __02__ (2.22 Fri): Hash function (Book 1.1~1.2) 
 * __03__ (2.26 Tue): Public Key Cryptography, Public Key Infrastructure (PKI) (Book 1.3~1.4)
 * __04__ (3.01 Fri): 
