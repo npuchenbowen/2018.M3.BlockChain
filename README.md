@@ -10,7 +10,7 @@
 * zk-SNARK by Vitalik Buterin: [Medium](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
 ## Lectures: 
-* __01__ (2.19 Tue): 
+* __01__ (2.19 Tue): [FinTech @ PHBS](wiki/FinTech-@-PHBS)
 * __02__ (2.22 Fri): 
 * __03__ (2.26 Tue):
 * __04__ (3.01 Fri):
