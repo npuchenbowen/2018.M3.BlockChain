@@ -10,13 +10,13 @@
 * zk-SNARK by Vitalik Buterin: [Medium](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
 ## Lectures: 
-* __01__ (2.19 Tue): [FinTech @ PHBS](wiki/FinTech-@-PHBS)
-* __02__ (2.22 Fri): 
-* __03__ (2.26 Tue):
-* __04__ (3.01 Fri):
+* __01__ (2.19 Tue): FinTech@PHBS, Course Overview, Bitcoin Overview (DeCal Lec 01)
+* __02__ (2.22 Fri): Hash function (Book 1.1~1.2) 
+* __03__ (2.26 Tue): Public Key Cryptography, Public Key Infrastructure (PKI) (Book 1.3~1.4)
+* __04__ (3.01 Fri): 
 * __05__ (3.05 Tue):
 * __06__ (3.08 Fri):
-* __07__ (3.12 Tue):
+* __07__ (3.12 Tue): 
 * __08__ (3.15 Fri):
 * __09__ (3.19 Tue):
 * __10__ (3.22 Fri):
@@ -26,8 +26,8 @@
 * __14__ (4.03 Wed): __MIDTERM EXAM__(__RESCHEDULE__)
 * __15__ (4.09 Tue):
 * __16__ (4.12 Fri):
-* __17__ (4.16 Tue):
-* __18__ (4.19 Fri): __FINAL EXAM__
+* __17__ (4.16 Tue): __Final Report Presentation__ (Tentative)
+* __18__ (4.19 Fri): __Final Report Presentation__ (Tentative)
 
 ## Homeworks: 
 ### __Set 1__ 
@@ -39,7 +39,7 @@
 
 ## Classes:
 * Lectures: Tuesday & Friday 1:30 – 3:20 PM
-* Venue: PHBS Building, Room XXX
+* Venue: PHBS Building, Room 229
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
@@ -52,7 +52,7 @@
 * TA Office Hour: 
 
 ## Textbooks and Reading Materials
-* [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available
+* [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available (Uploaded in [CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN533))
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)): (__BCT__)
 
 ## Assessment / Grading Details
@@ -62,3 +62,17 @@
 * __Project Presentation__: 4.19 Fri (in class)
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
+
+## Final Report
+* Independent study report on any subject related to blockchain and digital currency
+* Strictly individual (required course)
+* Examples of subject:
+  * Business Proposal (e.g., whitepaper)
+  * Mechanism of Altcoins
+  * Price Analysis 
+  * Summary/reproduction of academic papers
+* Grading standard
+  * Quality of writing
+  * Effort in ground work (data collection, market demand analysis)
+  * Completeness and coverage
+* Presentation requried for FinTech students if not all
