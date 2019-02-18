@@ -11,6 +11,7 @@
 
 ## Lectures: 
 * __01__ (2.19 Tue): FinTech@PHBS, Course Overview, Bitcoin Overview (DeCal Lec 01)
+  * HW1: Create github account, 
 * __02__ (2.22 Fri): Hash function (Book 1.1~1.2) 
 * __03__ (2.26 Tue): Public Key Cryptography, Public Key Infrastructure (PKI) (Book 1.3~1.4)
 * __04__ (3.01 Fri): 
