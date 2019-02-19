@@ -1,11 +1,11 @@
 # Blockchain and Digital Currency 2018-19 Module 3 (Spring 2019)
 
 ## Announcements
-* 
+* Class mailing list will bs created as __PHBS.BlockChain@allmail.net__ soon.
 
 ## Lectures: 
 * __01__ (2.19 Tue): FinTech@PHBS, Course Overview, Bitcoin Overview (DeCal Lec 01)
-  * HW1: Create github account, use real name under setting, and email me ID. (the repository will be member-only)
+  * HW1: Create github account, use real name under setting, and email me ID. (This repository will be member-only soon)
 * __02__ (2.22 Fri): Hash function (Book 1.1~1.2) 
 * __03__ (2.26 Tue): Public Key Cryptography, Public Key Infrastructure (PKI) (Book 1.3~1.4)
 * __04__ (3.01 Fri): 
